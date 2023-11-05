@@ -4,13 +4,15 @@ header {
     border-bottom: 1px solid black;
 }
 section {
-    width: 600px;
+    display: flex;
+    width: 100%;
     margin: 0 auto;
     background-color: lightgray;
     padding: 20px;
+    flex-direction: row;
 }
 section img {
-    width: 100% ;
+    width: 10% ;
 }
 .link {
     background-color: gray;
