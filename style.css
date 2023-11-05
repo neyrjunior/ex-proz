@@ -1,0 +1,25 @@
+header {
+    text-align: center;
+    font-family: cursive;
+    border-bottom: 1px solid black;
+}
+section {
+    width: 600px;
+    margin: 0 auto;
+    background-color: lightgray;
+    padding: 20px;
+}
+section img {
+    width: 100% ;
+}
+.link {
+    background-color: gray;
+    color: whitesmoke;
+    padding: 5px;
+    text-decoration: none;
+}
+#voltar {
+    display: flex;
+    width: 20px;
+    left: 0;
+}
